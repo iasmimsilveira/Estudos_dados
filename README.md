@@ -1,1 +1,1 @@
-# Estudos de Ciência de Dados
+# Estudo de Ciência de Dados
